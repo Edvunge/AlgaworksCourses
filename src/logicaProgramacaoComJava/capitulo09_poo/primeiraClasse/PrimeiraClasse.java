@@ -1,0 +1,16 @@
+package logicaProgramacaoComJava.capitulo09_poo.primeiraClasse;
+
+public class PrimeiraClasse {
+    public static void main(String[] args) {
+        AlgaworksBlack.logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.Produto produto = new AlgaworksBlack.logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.Produto();
+        produto.nome = "Smartphone";
+        produto.precoUnitario = 500.0;
+        produto.quantidade = 15;
+
+        exibirQuantidadeEmEstoque(produto);
+    }
+
+    static void exibirQuantidadeEmEstoque(Produto produto) {
+        System.out.println("Quantidade em estoque do produto " + produto.nome + " e " + produto.quantidade + " unids");
+    }
+}
