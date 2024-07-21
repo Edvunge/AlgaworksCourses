@@ -2,7 +2,7 @@ package logicaProgramacaoComJava.capitulo09_poo.primeiraClasse;
 
 public class PrimeiraClasse {
     public static void main(String[] args) {
-        AlgaworksBlack.logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.Produto produto = new AlgaworksBlack.logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.Produto();
+        Produto produto = new Produto();
         produto.nome = "Smartphone";
         produto.precoUnitario = 500.0;
         produto.quantidade = 15;

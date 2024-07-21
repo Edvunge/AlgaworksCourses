@@ -15,6 +15,7 @@ public class EscritaArquivos {
       linhas.add("gabriel");
       linhas.add("gabriel miranda");
       linhas.add("charua");
+      linhas.add("Bruno");   linhas.add("charua");
       linhas.add("Bruno");
 
       Path arquivo = Paths.get("C:\\Users\\HP\\Documents\\edvaldo/meu-arquivo.txt");
