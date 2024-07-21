@@ -1,8 +1,8 @@
-package banco.app;
+package ignicaoJava.banco.app;
 
 
-import banco.modelo.Conta;
-import banco.modelo.Pessoa;
+import ignicaoJava.banco.modelo.Conta;
+import ignicaoJava.banco.modelo.Pessoa;
 
 public class Principal {
     public static void main(String[] args) {

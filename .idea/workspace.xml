@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="project migration">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="running files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banco/app/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banco/app/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/exercicio01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/exercicio01/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/exercicio03/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/exercicio03/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/primeiraClasse/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo09_poo/primeiraClasse/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo10_arquivos/escritaArquivos/EscritaArquivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo10_arquivos/escritaArquivos/EscritaArquivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicaProgramacaoComJava/capitulo11_02_bibliotecas/BibliotecaPropria.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlgoritmoAvancado.executor": "Run",
     "Application.App.executor": "Run",
     "Application.ClasseInstancia.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
@@ -71,7 +66,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlgoritmoAvancado">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="AlgoritmoAvancado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logicaProgramacaoComJava.capitulo12_algoritmosAvancados.AlgoritmoAvancado" />
       <module name="AlgaworksCourses" />
@@ -111,19 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodoInstancia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logicaProgramacaoComJava.capitulo09_poo.metodoInstancia.MetodoInstancia" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logicaProgramacaoComJava.capitulo09_poo.metodoInstancia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrimeiraClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.PrimeiraClasse" />
       <module name="AlgaworksCourses" />
@@ -137,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ignicaoJava.banco.app.Principal" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ignicaoJava.banco.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.AlgoritmoAvancado" />
         <item itemvalue="Application.LeituraArquivos" />
         <item itemvalue="Application.EscritaArquivos" />
         <item itemvalue="Application.PrimeiraClasse" />
-        <item itemvalue="Application.MetodoInstancia" />
       </list>
     </recent_temporary>
   </component>
@@ -172,12 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721599027684</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="running files">
+      <option name="closed" value="true" />
+      <created>1721600240072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721600240072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init projects" />
     <MESSAGE value="project migration" />
-    <option name="LAST_COMMIT_MESSAGE" value="project migration" />
+    <MESSAGE value="running files" />
+    <option name="LAST_COMMIT_MESSAGE" value="running files" />
   </component>
 </project>
