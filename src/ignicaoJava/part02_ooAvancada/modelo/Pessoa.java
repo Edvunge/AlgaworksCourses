@@ -1,4 +1,4 @@
-package ignicaoJava.banco.modelo;
+package ignicaoJava.part02_ooAvancada.modelo;
 
 public class Pessoa {
     private String nome;

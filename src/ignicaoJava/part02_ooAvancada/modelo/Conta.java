@@ -1,4 +1,4 @@
-package ignicaoJava.banco.modelo;
+package ignicaoJava.part02_ooAvancada.modelo;
 
 import java.util.Objects;
 

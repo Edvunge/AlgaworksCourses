@@ -6,32 +6,44 @@
   <component name="ChangeListManager">
     <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="running files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ignicaoJava/banco/app/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part01_MergulhandoEmJava_OO/app/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ignicaoJava/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part01_MergulhandoEmJava_OO/modelo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ignicaoJava/banco/modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part01_MergulhandoEmJava_OO/modelo/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Edvunge"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Edvunge&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Edvunge/AlgaworksCourses.git",
-    "accountId": "66701fd0-0905-4370-b5e9-49a172a89be6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Edvunge/AlgaworksCourses.git&quot;,
+    &quot;accountId&quot;: &quot;66701fd0-0905-4370-b5e9-49a172a89be6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2jZd1gj7vxkOh0lpdpxQXQTUsKB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,20 +65,22 @@
     "Application.RecebendoParametros.executor": "Run",
     "Application.Recursividade.executor": "Run",
     "Application.RetornandoValores.executor": "Run",
+    "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HP/Documents/edvaldo/AlgaworksCourses/src"
+    "last_opened_file_path": "C:/Users/HP/Documents/edvaldo/AlgaworksCourses/src/ignicaoJava/part02_ooAvancada"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src\ignicaoJava\part02_ooAvancada" />
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.ignicaoJava.part02_ooAvancada.app.Principal">
     <configuration name="AlgoritmoAvancado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logicaProgramacaoComJava.capitulo12_algoritmosAvancados.AlgoritmoAvancado" />
       <module name="AlgaworksCourses" />
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiraClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.PrimeiraClasse" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ignicaoJava.part01_MergulhandoEmJava_OO.app.Principal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logicaProgramacaoComJava.capitulo09_poo.primeiraClasse.*" />
+          <option name="PATTERN" value="ignicaoJava.part01_MergulhandoEmJava_OO.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ignicaoJava.banco.app.Principal" />
+    <configuration name="ignicaoJava.part02_ooAvancada.app.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ignicaoJava.part02_ooAvancada.app.Principal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ignicaoJava.banco.app.*" />
+          <option name="PATTERN" value="ignicaoJava.part02_ooAvancada.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ignicaoJava.part02_ooAvancada.app.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.AlgoritmoAvancado" />
         <item itemvalue="Application.LeituraArquivos" />
         <item itemvalue="Application.EscritaArquivos" />
-        <item itemvalue="Application.PrimeiraClasse" />
       </list>
     </recent_temporary>
   </component>
