@@ -1,10 +1,7 @@
 package ignicaoJava.part02_ooAvancada.app;
 
 
-import ignicaoJava.part02_ooAvancada.modelo.Conta;
-import ignicaoJava.part02_ooAvancada.modelo.ContaEspecial;
-import ignicaoJava.part02_ooAvancada.modelo.ContaInvestimento;
-import ignicaoJava.part02_ooAvancada.modelo.Pessoa;
+import ignicaoJava.part02_ooAvancada.modelo.*;
 
 public class Principal {
     public static void main(String[] args) {
@@ -23,15 +20,14 @@ public class Principal {
         minhaConta.depositar(15_000);
         minhaConta.sacar(1_000);
 
+        CaixaEletronico caixaEletronico = new CaixaEletronico();
+
+
         minhaConta.creditarRendimentos(0.8);
 
         suaConta.depositar(15_000);
         minhaConta.sacar(15_000);
 
-        System.out.println("Titular: " + minhaConta.getTitular().getNome());
-        System.out.println("Saldo: " + minhaConta.getSaldo());
-
-        System.out.println("Titular: " + suaConta.getTitular().getNome());
-        System.out.println("Saldo: " + suaConta.getSaldo());
+        caixaEletronico.imprimirSaldo(minhaConta);
     }
 }
