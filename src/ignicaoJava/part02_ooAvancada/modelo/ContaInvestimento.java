@@ -8,6 +8,11 @@ public class ContaInvestimento extends Conta {
 
     }
 
+    @Override
+    public void debitarTarifaMensal() {
+
+    }
+
     public void creditarRendimentos(double percentualJuros) {
         double valorRendimentos = getSaldo() * percentualJuros / 100;
         depositar(valorRendimentos);

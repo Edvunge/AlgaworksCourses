@@ -2,7 +2,7 @@ package ignicaoJava.part02_ooAvancada.modelo;
 
 import java.util.Objects;
 
-public class Conta {
+public abstract class Conta {
     private Pessoa titular;
     private int agencia;
     private int numero;
@@ -36,6 +36,9 @@ public class Conta {
         }
         saldo = saldo - valor;
     }
+
+    public abstract void debitarTarifaMensal();
+
 
     public void sacar(double valor, double taxaSaque) {
         sacar(valor + taxaSaque);

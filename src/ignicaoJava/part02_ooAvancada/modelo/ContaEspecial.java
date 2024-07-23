@@ -16,4 +16,9 @@ public class ContaEspecial extends Conta {
     public void setValorLimite(double valorLimite) {
         this.valorLimite = valorLimite;
     }
+
+    @Override
+    public void debitarTarifaMensal() {
+
+    }
 }
