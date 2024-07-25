@@ -2,6 +2,7 @@ package ignicaoJava.part02_ooAvancada.app;
 
 
 import ignicaoJava.part02_ooAvancada.modelo.*;
+import ignicaoJava.part02_ooAvancada.modelo.atm.CaixaEletronico;
 
 public class Principal {
     public static void main(String[] args) {
@@ -21,6 +22,9 @@ public class Principal {
         minhaConta.sacar(1_000);
 
         CaixaEletronico caixaEletronico = new CaixaEletronico();
+
+
+
 
 
         minhaConta.creditarRendimentos(0.8);
