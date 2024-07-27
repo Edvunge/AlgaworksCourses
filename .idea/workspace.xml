@@ -7,7 +7,7 @@
     <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="classes_abstratas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/app/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/app/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/modelo/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/modelo/atm/CaixaEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/modelo/atm/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ignicaoJava/part02_ooAvancada/modelo/atm/CaixaEletronico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,32 +48,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AlgoritmoAvancado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasseInstancia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscolhendoBonsNomes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscritaArquivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraArquivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MetodoInstancia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeiraClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeiroMetodo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecebendoParametros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursividade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RetornandoValores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ignicaoJava.part02_ooAvancada.app.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Documents/edvaldo/AlgaworksCourses/src/ignicaoJava/part02_ooAvancada&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlgoritmoAvancado.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.ClasseInstancia.executor": "Run",
+    "Application.Encapsulamento.executor": "Run",
+    "Application.EscolhendoBonsNomes.executor": "Run",
+    "Application.EscritaArquivos.executor": "Run",
+    "Application.HelloWord.executor": "Run",
+    "Application.LeituraArquivos.executor": "Run",
+    "Application.MetodoInstancia.executor": "Run",
+    "Application.PrimeiraClasse.executor": "Run",
+    "Application.PrimeiroMetodo.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.RecebendoParametros.executor": "Run",
+    "Application.Recursividade.executor": "Run",
+    "Application.RetornandoValores.executor": "Run",
+    "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
+    "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
+    "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/edval/Documents/AlgaworksCourses"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src\ignicaoJava\part02_ooAvancada" />
