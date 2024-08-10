@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/Java_Every_Day.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +48,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbreviandoOperadoresAritmeticos.executor": "Run",
     "Application.AlgoritmoAvancado.executor": "Run",
     "Application.App.executor": "Run",
+    "Application.CalculadoraMediaIdade.executor": "Run",
     "Application.ClasseInstancia.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
     "Application.EscolhendoBonsNomes.executor": "Run",
     "Application.EscritaArquivos.executor": "Run",
+    "Application.ExemploBoolean.executor": "Run",
+    "Application.ExemploByteShort.executor": "Run",
+    "Application.ExemploChar.executor": "Run",
     "Application.HelloWord.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
+    "Application.MediaTicket.executor": "Run",
     "Application.MetodoInstancia.executor": "Run",
     "Application.OlaMergulhador.executor": "Run",
+    "Application.OperadorIncremento.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.PrimeiroMetodo.executor": "Run",
     "Application.Principal.executor": "Run",
@@ -83,22 +89,9 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Variaveis">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section01_plataforma_e_ambienteDesenvolvimento.HelloWorld" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section01_plataforma_e_ambienteDesenvolvimento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OlaMergulhador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.OlaMergulhador" />
+  <component name="RunManager" selected="Application.ExemploByteShort">
+    <configuration name="AbreviandoOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.AbreviandoOperadoresAritmeticos" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ignicaoJava.part01_MergulhandoEmJava_OO.app.Principal" />
+    <configuration name="ExemploBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploBoolean" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ignicaoJava.part01_MergulhandoEmJava_OO.app.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,25 +116,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.Variaveis" />
+    <configuration name="ExemploByteShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploByteShort" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploChar" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorIncremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.OperadorIncremento" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ignicaoJava.part02_ooAvancada.app.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ignicaoJava.part02_ooAvancada.app.Principal" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ignicaoJava.part02_ooAvancada.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variaveis" />
-        <item itemvalue="Application.OlaMergulhador" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.ignicaoJava.part02_ooAvancada.app.Principal" />
-        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.ExemploByteShort" />
+        <item itemvalue="Application.ExemploChar" />
+        <item itemvalue="Application.ExemploBoolean" />
+        <item itemvalue="Application.OperadorIncremento" />
+        <item itemvalue="Application.AbreviandoOperadoresAritmeticos" />
       </list>
     </recent_temporary>
   </component>
