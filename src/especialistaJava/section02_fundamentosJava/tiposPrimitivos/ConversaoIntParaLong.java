@@ -1,10 +1,9 @@
 package especialistaJava.section02_fundamentosJava.tiposPrimitivos;
 
-public class ExemploDouble {
+public class ConversaoIntParaLong {
     public static void main(String[] args) {
-        double peso = 84.9;
+        int y = 102344;
 
-        System.out.println(peso);
-
+        long x = y;
     }
 }

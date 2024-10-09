@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploFloat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +54,18 @@
     "Application.AlgoritmoAvancado.executor": "Run",
     "Application.App.executor": "Run",
     "Application.CalculadoraMediaIdade.executor": "Run",
+    "Application.CalculadoraPesosDasCargas.executor": "Run",
     "Application.ClasseInstancia.executor": "Run",
+    "Application.ConversaoDoubleParaFloat.executor": "Run",
+    "Application.ConversaoDoubleParaInt.executor": "Run",
+    "Application.ConversaoLongParaInt.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
     "Application.EscolhendoBonsNomes.executor": "Run",
     "Application.EscritaArquivos.executor": "Run",
     "Application.ExemploBoolean.executor": "Run",
     "Application.ExemploByteShort.executor": "Run",
     "Application.ExemploChar.executor": "Run",
+    "Application.ExemploDouble.executor": "Run",
     "Application.HelloWord.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
@@ -89,22 +96,9 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploByteShort">
-    <configuration name="AbreviandoOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.AbreviandoOperadoresAritmeticos" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploBoolean" />
+  <component name="RunManager" selected="Application.CalculadoraPesosDasCargas">
+    <configuration name="CalculadoraPesosDasCargas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.CalculadoraPesosDasCargas" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploByteShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploByteShort" />
+    <configuration name="ConversaoDoubleParaFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoDoubleParaFloat" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploChar" />
+    <configuration name="ConversaoDoubleParaInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoDoubleParaInt" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -142,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorIncremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.OperadorIncremento" />
+    <configuration name="ConversaoLongParaInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoLongParaInt" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploDouble" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploByteShort" />
-        <item itemvalue="Application.ExemploChar" />
-        <item itemvalue="Application.ExemploBoolean" />
-        <item itemvalue="Application.OperadorIncremento" />
-        <item itemvalue="Application.AbreviandoOperadoresAritmeticos" />
+        <item itemvalue="Application.CalculadoraPesosDasCargas" />
+        <item itemvalue="Application.ConversaoDoubleParaInt" />
+        <item itemvalue="Application.ConversaoDoubleParaFloat" />
+        <item itemvalue="Application.ConversaoLongParaInt" />
+        <item itemvalue="Application.ExemploDouble" />
       </list>
     </recent_temporary>
   </component>
