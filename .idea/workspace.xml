@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="interfaces">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="conversoes de tipos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section02_fundamentosJava/tiposPrimitivos/ExemploFloat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
     "Application.AbreviandoOperadoresAritmeticos.executor": "Run",
     "Application.AlgoritmoAvancado.executor": "Run",
     "Application.App.executor": "Run",
+    "Application.CalculadoraIdadeMedia.executor": "Run",
     "Application.CalculadoraMediaIdade.executor": "Run",
     "Application.CalculadoraPesosDasCargas.executor": "Run",
     "Application.ClasseInstancia.executor": "Run",
@@ -60,14 +59,19 @@
     "Application.ConversaoDoubleParaInt.executor": "Run",
     "Application.ConversaoLongParaInt.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
+    "Application.EntradaDeDados.executor": "Run",
     "Application.EscolhendoBonsNomes.executor": "Run",
     "Application.EscritaArquivos.executor": "Run",
     "Application.ExemploBoolean.executor": "Run",
     "Application.ExemploByteShort.executor": "Run",
     "Application.ExemploChar.executor": "Run",
     "Application.ExemploDouble.executor": "Run",
+    "Application.ExemploString.executor": "Run",
+    "Application.FolhaDePagamento.executor": "Run",
+    "Application.FormatandoComPrintf.executor": "Run",
     "Application.HelloWord.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IndiceMassaCorporal.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
     "Application.MediaTicket.executor": "Run",
     "Application.MetodoInstancia.executor": "Run",
@@ -77,9 +81,12 @@
     "Application.PrimeiraClasse.executor": "Run",
     "Application.PrimeiroMetodo.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PromocaoAritmetica1.executor": "Run",
+    "Application.PromocaoAritmetica3.executor": "Run",
     "Application.RecebendoParametros.executor": "Run",
     "Application.Recursividade.executor": "Run",
     "Application.RetornandoValores.executor": "Run",
+    "Application.SequenciaEscape.executor": "Run",
     "Application.Variaveis.executor": "Run",
     "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
@@ -96,13 +103,13 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraPesosDasCargas">
-    <configuration name="CalculadoraPesosDasCargas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.CalculadoraPesosDasCargas" />
+  <component name="RunManager" selected="Application.FolhaDePagamento">
+    <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.EntradaDeDados" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoDoubleParaFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoDoubleParaFloat" />
+    <configuration name="FolhaDePagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.FolhaDePagamento" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoDoubleParaInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoDoubleParaInt" />
+    <configuration name="FormatandoComPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.FormatandoComPrintf" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoLongParaInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ConversaoLongParaInt" />
+    <configuration name="IndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.IndiceMassaCorporal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.ExemploDouble" />
+    <configuration name="SequenciaEscape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.SequenciaEscape" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.tiposPrimitivos.*" />
+          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculadoraPesosDasCargas" />
-        <item itemvalue="Application.ConversaoDoubleParaInt" />
-        <item itemvalue="Application.ConversaoDoubleParaFloat" />
-        <item itemvalue="Application.ConversaoLongParaInt" />
-        <item itemvalue="Application.ExemploDouble" />
+        <item itemvalue="Application.FolhaDePagamento" />
+        <item itemvalue="Application.IndiceMassaCorporal" />
+        <item itemvalue="Application.EntradaDeDados" />
+        <item itemvalue="Application.FormatandoComPrintf" />
+        <item itemvalue="Application.SequenciaEscape" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722104691329</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="conversoes de tipos">
+      <option name="closed" value="true" />
+      <created>1728517235418</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728517235418</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +254,7 @@
     <MESSAGE value="herança_sobre_escritaMetods" />
     <MESSAGE value="classes_abstratas" />
     <MESSAGE value="interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
+    <MESSAGE value="conversoes de tipos" />
+    <option name="LAST_COMMIT_MESSAGE" value="conversoes de tipos" />
   </component>
 </project>
