@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="strings_entradaDeDados" />
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="first_class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,18 +50,23 @@
   "keyToString": {
     "Application.AbreviandoOperadoresAritmeticos.executor": "Run",
     "Application.AlgoritmoAvancado.executor": "Run",
+    "Application.AnoBissexto.executor": "Run",
     "Application.App.executor": "Run",
     "Application.CalculadoraIdadeMedia.executor": "Run",
+    "Application.CalculadoraIndiceMassaCorporal.executor": "Run",
     "Application.CalculadoraMediaIdade.executor": "Run",
     "Application.CalculadoraPesosDasCargas.executor": "Run",
     "Application.ClasseInstancia.executor": "Run",
     "Application.ConversaoDoubleParaFloat.executor": "Run",
     "Application.ConversaoDoubleParaInt.executor": "Run",
     "Application.ConversaoLongParaInt.executor": "Run",
+    "Application.CurtoCircuitoOperadoresLogicos.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
     "Application.EntradaDeDados.executor": "Run",
     "Application.EscolhendoBonsNomes.executor": "Run",
     "Application.EscritaArquivos.executor": "Run",
+    "Application.ExameCortisol.executor": "Run",
+    "Application.ExameVitaminaD.executor": "Run",
     "Application.ExemploBoolean.executor": "Run",
     "Application.ExemploByteShort.executor": "Run",
     "Application.ExemploChar.executor": "Run",
@@ -76,6 +83,9 @@
     "Application.OlaMergulhador.executor": "Run",
     "Application.OperadorIncremento.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresComparacao.executor": "Run",
+    "Application.OperadoresIgualdadeNegacao.executor": "Run",
+    "Application.PrecedenciaOperadoresLogicos.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.PrimeiroMetodo.executor": "Run",
     "Application.Principal.executor": "Run",
@@ -101,48 +111,9 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.EntradaDeDados" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FolhaDePagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.FolhaDePagamento" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FormatandoComPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.FormatandoComPrintf" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.HelloWorld" />
+  <component name="RunManager" selected="Application.CalculadoraIndiceMassaCorporal">
+    <configuration name="AnoBissexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.AnoBissexto" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -154,12 +125,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.IndiceMassaCorporal" />
+    <configuration name="CalculadoraIndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraIndiceMassaCorporal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurtoCircuitoOperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CurtoCircuitoOperadoresLogicos" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExameVitaminaD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.ExameVitaminaD" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrecedenciaOperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.PrecedenciaOperadoresLogicos" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.FolhaDePagamento" />
-        <item itemvalue="Application.IndiceMassaCorporal" />
-        <item itemvalue="Application.EntradaDeDados" />
-        <item itemvalue="Application.FormatandoComPrintf" />
+        <item itemvalue="Application.CalculadoraIndiceMassaCorporal" />
+        <item itemvalue="Application.ExameVitaminaD" />
+        <item itemvalue="Application.PrecedenciaOperadoresLogicos" />
+        <item itemvalue="Application.CurtoCircuitoOperadoresLogicos" />
+        <item itemvalue="Application.AnoBissexto" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728773988750</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first_class">
+      <option name="closed" value="true" />
+      <created>1728810204785</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728810204785</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +280,7 @@
     <MESSAGE value="interfaces" />
     <MESSAGE value="conversoes de tipos" />
     <MESSAGE value="strings_entradaDeDados" />
-    <option name="LAST_COMMIT_MESSAGE" value="strings_entradaDeDados" />
+    <MESSAGE value="first_class" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_class" />
   </component>
 </project>
