@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="conversoes de tipos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="strings_entradaDeDados" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FolhaDePagamento">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.EntradaDeDados" />
       <module name="AlgaworksCourses" />
@@ -143,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.HelloWorld" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.IndiceMassaCorporal" />
       <module name="AlgaworksCourses" />
@@ -156,26 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenciaEscape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section02_fundamentosJava.SequenciaEscape" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section02_fundamentosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.FolhaDePagamento" />
         <item itemvalue="Application.IndiceMassaCorporal" />
         <item itemvalue="Application.EntradaDeDados" />
         <item itemvalue="Application.FormatandoComPrintf" />
-        <item itemvalue="Application.SequenciaEscape" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728517235418</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="strings_entradaDeDados">
+      <option name="closed" value="true" />
+      <created>1728773988750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728773988750</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +261,7 @@
     <MESSAGE value="classes_abstratas" />
     <MESSAGE value="interfaces" />
     <MESSAGE value="conversoes de tipos" />
-    <option name="LAST_COMMIT_MESSAGE" value="conversoes de tipos" />
+    <MESSAGE value="strings_entradaDeDados" />
+    <option name="LAST_COMMIT_MESSAGE" value="strings_entradaDeDados" />
   </component>
 </project>
