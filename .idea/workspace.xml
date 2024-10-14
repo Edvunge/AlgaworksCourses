@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="first_class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="first_class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +75,7 @@
     "Application.HelloWord.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IndiceMassaCorporal.executor": "Run",
+    "Application.IndiceMassaCorporalMale_OR_female.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
     "Application.MediaTicket.executor": "Run",
     "Application.MetodoInstancia.executor": "Run",
@@ -111,20 +110,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraIndiceMassaCorporal">
-    <configuration name="AnoBissexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.AnoBissexto" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IndiceMassaCorporalMale_OR_female">
     <configuration name="CalculadoraIndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraIndiceMassaCorporal" />
       <module name="AlgaworksCourses" />
@@ -164,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IndiceMassaCorporalMale_OR_female" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio3.IndiceMassaCorporalMale_OR_female" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.desafio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrecedenciaOperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.PrecedenciaOperadoresLogicos" />
       <module name="AlgaworksCourses" />
@@ -179,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndiceMassaCorporalMale_OR_female" />
         <item itemvalue="Application.CalculadoraIndiceMassaCorporal" />
         <item itemvalue="Application.ExameVitaminaD" />
         <item itemvalue="Application.PrecedenciaOperadoresLogicos" />
         <item itemvalue="Application.CurtoCircuitoOperadoresLogicos" />
-        <item itemvalue="Application.AnoBissexto" />
       </list>
     </recent_temporary>
   </component>
