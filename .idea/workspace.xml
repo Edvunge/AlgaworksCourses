@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="first_class" />
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="desafio_39.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
     "Application.AlgoritmoAvancado.executor": "Run",
     "Application.AnoBissexto.executor": "Run",
     "Application.App.executor": "Run",
+    "Application.CaixaLoja.executor": "Run",
     "Application.CalculadoraIdadeMedia.executor": "Run",
     "Application.CalculadoraIndiceMassaCorporal.executor": "Run",
     "Application.CalculadoraMediaIdade.executor": "Run",
@@ -74,6 +77,7 @@
     "Application.FormatandoComPrintf.executor": "Run",
     "Application.HelloWord.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.HorarioFuncionamento.executor": "Run",
     "Application.IndiceMassaCorporal.executor": "Run",
     "Application.IndiceMassaCorporalMale_OR_female.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
@@ -95,6 +99,7 @@
     "Application.RetornandoValores.executor": "Run",
     "Application.SequenciaEscape.executor": "Run",
     "Application.Variaveis.executor": "Run",
+    "Application.avaliacaoAtendimento.executor": "Run",
     "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor": "Run",
@@ -110,7 +115,20 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IndiceMassaCorporalMale_OR_female">
+  <component name="RunManager" selected="Application.HorarioFuncionamento">
+    <configuration name="CaixaLoja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CaixaLoja" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculadoraIndiceMassaCorporal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraIndiceMassaCorporal" />
       <module name="AlgaworksCourses" />
@@ -124,21 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurtoCircuitoOperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CurtoCircuitoOperadoresLogicos" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExameVitaminaD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.ExameVitaminaD" />
+    <configuration name="HorarioFuncionamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.HorarioFuncionamento" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrecedenciaOperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.PrecedenciaOperadoresLogicos" />
+    <configuration name="avaliacaoAtendimento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.avaliacaoAtendimento" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HorarioFuncionamento" />
+        <item itemvalue="Application.avaliacaoAtendimento" />
+        <item itemvalue="Application.CaixaLoja" />
         <item itemvalue="Application.IndiceMassaCorporalMale_OR_female" />
         <item itemvalue="Application.CalculadoraIndiceMassaCorporal" />
-        <item itemvalue="Application.ExameVitaminaD" />
-        <item itemvalue="Application.PrecedenciaOperadoresLogicos" />
-        <item itemvalue="Application.CurtoCircuitoOperadoresLogicos" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728810204785</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="desafio_39.1">
+      <option name="closed" value="true" />
+      <created>1728893093114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728893093114</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +293,7 @@
     <MESSAGE value="conversoes de tipos" />
     <MESSAGE value="strings_entradaDeDados" />
     <MESSAGE value="first_class" />
-    <option name="LAST_COMMIT_MESSAGE" value="first_class" />
+    <MESSAGE value="desafio_39.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio_39.1" />
   </component>
 </project>
