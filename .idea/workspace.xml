@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="escopo_ifs_switch">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="escopo_switch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,8 @@
     "Application.ConversaoDoubleParaInt.executor": "Run",
     "Application.ConversaoLongParaInt.executor": "Run",
     "Application.CurtoCircuitoOperadoresLogicos.executor": "Run",
+    "Application.DesafioFor.executor": "Run",
+    "Application.DesafioWhile.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
     "Application.EntradaDeDados.executor": "Run",
     "Application.EscolhendoBonsNomes.executor": "Run",
@@ -108,7 +110,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/AlgaworksCourses"
+    "last_opened_file_path": "C:/Users/User/Documents/AlgaworksCourses",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -117,9 +120,9 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraImpostos">
-    <configuration name="CaixaLoja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CaixaLoja" />
+  <component name="RunManager" selected="Application.DesafioWhile">
+    <configuration name="CalculadoraImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraImpostos" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -131,12 +134,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraImpostos" />
+    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.DesafioFor" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.DesafioWhile" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,26 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="avaliacaoAtendimento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.avaliacaoAtendimento" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioWhile" />
+        <item itemvalue="Application.DesafioFor" />
         <item itemvalue="Application.CalculadoraImpostos" />
         <item itemvalue="Application.HoraDeFuncionamento" />
         <item itemvalue="Application.HorarioFuncionamento" />
-        <item itemvalue="Application.avaliacaoAtendimento" />
-        <item itemvalue="Application.CaixaLoja" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728975802532</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="escopo_switch">
+      <option name="closed" value="true" />
+      <created>1729125073529</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729125073529</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -305,6 +316,7 @@
     <MESSAGE value="first_class" />
     <MESSAGE value="desafio_39.1" />
     <MESSAGE value="escopo_ifs_switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="escopo_ifs_switch" />
+    <MESSAGE value="escopo_switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="escopo_switch" />
   </component>
 </project>
