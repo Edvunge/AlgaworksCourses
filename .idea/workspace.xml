@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="escopo_switch">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="starting_oop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +87,7 @@
     "Application.IndiceMassaCorporal.executor": "Run",
     "Application.IndiceMassaCorporalMale_OR_female.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MediaTicket.executor": "Run",
     "Application.MetodoInstancia.executor": "Run",
     "Application.OlaMergulhador.executor": "Run",
@@ -95,7 +98,7 @@
     "Application.PrecedenciaOperadoresLogicos.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.PrimeiroMetodo.executor": "Run",
-    "Application.Principal.executor": "Debug",
+    "Application.Principal.executor": "Run",
     "Application.PromocaoAritmetica1.executor": "Run",
     "Application.PromocaoAritmetica3.executor": "Run",
     "Application.RecebendoParametros.executor": "Run",
@@ -104,6 +107,8 @@
     "Application.SequenciaEscape.executor": "Run",
     "Application.Start_OOP.executor": "Run",
     "Application.Test01.executor": "Run",
+    "Application.TesteInicializacao.executor": "Run",
+    "Application.TesteReferencias.executor": "Run",
     "Application.Variaveis.executor": "Run",
     "Application.avaliacaoAtendimento.executor": "Run",
     "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
@@ -113,7 +118,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Documents/AlgaworksCourses",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -122,26 +127,13 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.DesafioFor" />
+  <component name="RunManager" selected="Application.TesteReferencias">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.Main" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.DesafioWhile" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.*" />
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +167,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test01" />
+    <configuration name="TesteInicializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.TesteInicializacao" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.TesteReferencias" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteReferencias" />
+        <item itemvalue="Application.TesteInicializacao" />
         <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Start_OOP" />
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.DesafioWhile" />
-        <item itemvalue="Application.DesafioFor" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729125073529</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="starting_oop">
+      <option name="closed" value="true" />
+      <created>1729297913528</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729297913528</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,17 +343,7 @@
     <MESSAGE value="desafio_39.1" />
     <MESSAGE value="escopo_ifs_switch" />
     <MESSAGE value="escopo_switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="escopo_switch" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="starting_oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting_oop" />
   </component>
 </project>
