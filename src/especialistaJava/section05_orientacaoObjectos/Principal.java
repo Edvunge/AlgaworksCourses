@@ -37,5 +37,10 @@ public class Principal {
         System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
         System.out.printf("Cor: %s%n", seuCarro.cor);
         System.out.printf("Fabricante: %s%n", seuCarro.fabricante);
+
+        System.out.println();
+        System.out.println("- Metodos - ");
+        meuCarro.calcularValorRevenda();
+        seuCarro.calcularValorRevenda();
     }
 }

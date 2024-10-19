@@ -127,7 +127,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteReferencias">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.Main" />
       <module name="AlgaworksCourses" />
@@ -195,9 +195,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TesteReferencias" />
         <item itemvalue="Application.TesteInicializacao" />
-        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Start_OOP" />
       </list>
