@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="escopo_switch" />
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="escopo_switch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,94 +46,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbreviandoOperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlgoritmoAvancado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnoBissexto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CaixaLoja.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraIdadeMedia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraImpostos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraIndiceMassaCorporal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraMediaIdade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraPesosDasCargas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClasseInstancia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDoubleParaFloat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDoubleParaInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoLongParaInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurtoCircuitoOperadoresLogicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EntradaDeDados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscolhendoBonsNomes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscritaArquivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExameCortisol.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExameVitaminaD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploBoolean.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploByteShort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploDouble.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FolhaDePagamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormatandoComPrintf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraDeFuncionamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HorarioFuncionamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndiceMassaCorporal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndiceMassaCorporalMale_OR_female.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraArquivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediaTicket.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MetodoInstancia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OlaMergulhador.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadorIncremento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresComparacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresIgualdadeNegacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrecedenciaOperadoresLogicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeiraClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeiroMetodo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PromocaoAritmetica1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PromocaoAritmetica3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecebendoParametros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursividade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RetornandoValores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SequenciaEscape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.avaliacaoAtendimento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ignicaoJava.part02_ooAvancada.app.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/AlgaworksCourses&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbreviandoOperadoresAritmeticos.executor": "Run",
+    "Application.AlgoritmoAvancado.executor": "Run",
+    "Application.AnoBissexto.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.CaixaLoja.executor": "Run",
+    "Application.CalculadoraIdadeMedia.executor": "Run",
+    "Application.CalculadoraImpostos.executor": "Run",
+    "Application.CalculadoraIndiceMassaCorporal.executor": "Run",
+    "Application.CalculadoraMediaIdade.executor": "Run",
+    "Application.CalculadoraPesosDasCargas.executor": "Run",
+    "Application.ClasseInstancia.executor": "Run",
+    "Application.ConversaoDoubleParaFloat.executor": "Run",
+    "Application.ConversaoDoubleParaInt.executor": "Run",
+    "Application.ConversaoLongParaInt.executor": "Run",
+    "Application.CurtoCircuitoOperadoresLogicos.executor": "Run",
+    "Application.DesafioFor.executor": "Run",
+    "Application.DesafioWhile.executor": "Run",
+    "Application.Encapsulamento.executor": "Run",
+    "Application.EntradaDeDados.executor": "Run",
+    "Application.EscolhendoBonsNomes.executor": "Run",
+    "Application.EscritaArquivos.executor": "Run",
+    "Application.ExameCortisol.executor": "Run",
+    "Application.ExameVitaminaD.executor": "Run",
+    "Application.ExemploBoolean.executor": "Run",
+    "Application.ExemploByteShort.executor": "Run",
+    "Application.ExemploChar.executor": "Run",
+    "Application.ExemploDouble.executor": "Run",
+    "Application.ExemploString.executor": "Run",
+    "Application.FolhaDePagamento.executor": "Run",
+    "Application.FormatandoComPrintf.executor": "Run",
+    "Application.HelloWord.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HoraDeFuncionamento.executor": "Run",
+    "Application.HorarioFuncionamento.executor": "Run",
+    "Application.IndiceMassaCorporal.executor": "Run",
+    "Application.IndiceMassaCorporalMale_OR_female.executor": "Run",
+    "Application.LeituraArquivos.executor": "Run",
+    "Application.MediaTicket.executor": "Run",
+    "Application.MetodoInstancia.executor": "Run",
+    "Application.OlaMergulhador.executor": "Run",
+    "Application.OperadorIncremento.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresComparacao.executor": "Run",
+    "Application.OperadoresIgualdadeNegacao.executor": "Run",
+    "Application.PrecedenciaOperadoresLogicos.executor": "Run",
+    "Application.PrimeiraClasse.executor": "Run",
+    "Application.PrimeiroMetodo.executor": "Run",
+    "Application.Principal.executor": "Debug",
+    "Application.PromocaoAritmetica1.executor": "Run",
+    "Application.PromocaoAritmetica3.executor": "Run",
+    "Application.RecebendoParametros.executor": "Run",
+    "Application.Recursividade.executor": "Run",
+    "Application.RetornandoValores.executor": "Run",
+    "Application.SequenciaEscape.executor": "Run",
+    "Application.Start_OOP.executor": "Run",
+    "Application.Test01.executor": "Run",
+    "Application.Variaveis.executor": "Run",
+    "Application.avaliacaoAtendimento.executor": "Run",
+    "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
+    "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
+    "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/AlgaworksCourses",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src\ignicaoJava\part02_ooAvancada" />
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
-    <configuration name="CalculadoraImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.CalculadoraImpostos" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.desafio4.DesafioFor" />
       <module name="AlgaworksCourses" />
@@ -158,12 +149,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoraDeFuncionamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section03_estruturasControle_E_operadores.HoraDeFuncionamento" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Principal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section03_estruturasControle_E_operadores.*" />
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start_OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Start_OOP" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Start_OOP" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.DesafioWhile" />
         <item itemvalue="Application.DesafioFor" />
-        <item itemvalue="Application.CalculadoraImpostos" />
-        <item itemvalue="Application.HoraDeFuncionamento" />
       </list>
     </recent_temporary>
   </component>
@@ -327,5 +331,16 @@
     <MESSAGE value="escopo_ifs_switch" />
     <MESSAGE value="escopo_switch" />
     <option name="LAST_COMMIT_MESSAGE" value="escopo_switch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
