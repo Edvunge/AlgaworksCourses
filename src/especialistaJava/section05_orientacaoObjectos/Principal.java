@@ -14,13 +14,12 @@ public class Principal {
         meuCarro.proprietario.anoNascimento = 1995;
 
         Carro seuCarro = new Carro();
-        seuCarro.anoFabricacao = 2022;
+        seuCarro.anoFabricacao = 2024;
         seuCarro.cor = "Branco";
         seuCarro.fabricante = "BMW";
         seuCarro.modelo = "X6";
 
         System.out.println("Meu Carro");
-        System.out.println("----------");
         System.out.printf("Modelo: %s%n", meuCarro.modelo);
         System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
         System.out.printf("Cor: %s%n", meuCarro.cor);
@@ -32,7 +31,6 @@ public class Principal {
         System.out.println();
 
         System.out.println("Seu Carro");
-        System.out.println("----------");
         System.out.printf("Modelo: %s%n", seuCarro.modelo);
         System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
         System.out.printf("Cor: %s%n", seuCarro.cor);
