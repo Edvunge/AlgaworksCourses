@@ -19,6 +19,12 @@ public class Principal {
         seuCarro.fabricante = "BMW";
         seuCarro.modelo = "X6";
 
+        double ipva = meuCarro.calacularIpva();
+        System.out.println(ipva);
+
+        meuCarro.imprimirResumoDepreciacao();
+
+        /*
         System.out.println("Meu Carro");
         System.out.printf("Modelo: %s%n", meuCarro.modelo);
         System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
@@ -39,6 +45,6 @@ public class Principal {
         System.out.println();
         System.out.println("- Metodos - ");
         meuCarro.calcularValorRevenda();
-        seuCarro.calcularValorRevenda();
+        seuCarro.calcularValorRevenda();*/
     }
 }

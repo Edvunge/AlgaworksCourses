@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="instanciacao do metodo">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="instanciacao do metodo_update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +88,7 @@
     "Application.IndiceMassaCorporalMale_OR_female.executor": "Run",
     "Application.LeituraArquivos.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainPaciente.executor": "Run",
     "Application.MediaTicket.executor": "Run",
     "Application.MetodoInstancia.executor": "Run",
     "Application.OlaMergulhador.executor": "Run",
@@ -125,7 +128,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.MainPaciente">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.Main" />
       <module name="AlgaworksCourses" />
@@ -139,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Principal" />
+    <configuration name="MainPaciente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.MainPaciente" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start_OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Start_OOP" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Principal" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
@@ -193,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainPaciente" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TesteReferencias" />
         <item itemvalue="Application.TesteInicializacao" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Start_OOP" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729379337067</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="instanciacao do metodo_update">
+      <option name="closed" value="true" />
+      <created>1729717362254</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717362254</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +362,7 @@
     <MESSAGE value="escopo_switch" />
     <MESSAGE value="starting_oop" />
     <MESSAGE value="instanciacao do metodo" />
-    <option name="LAST_COMMIT_MESSAGE" value="instanciacao do metodo" />
+    <MESSAGE value="instanciacao do metodo_update" />
+    <option name="LAST_COMMIT_MESSAGE" value="instanciacao do metodo_update" />
   </component>
 </project>
