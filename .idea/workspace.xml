@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="instanciacao do metodo_update">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="metodos e passagens por referencia">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +110,7 @@
     "Application.TesteReferencias.executor": "Run",
     "Application.Variaveis.executor": "Run",
     "Application.avaliacaoAtendimento.executor": "Run",
+    "Application.especialistaJava.section05_orientacaoObjectos.desafio5_25.Main.executor": "Run",
     "Application.ignicaoJava.part02_ooAvancada.app.Principal.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio02.App.executor": "Run",
     "Application.logicaProgramacaoComJava.capitulo09_poo.exercicio03.App.executor": "Run",
@@ -128,20 +127,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainPaciente">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.Main" />
-      <module name="AlgaworksCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.desafio5_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.especialistaJava.section05_orientacaoObjectos.desafio5_25.Main">
     <configuration name="MainPaciente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.MainPaciente" />
       <module name="AlgaworksCourses" />
@@ -194,13 +180,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="especialistaJava.section05_orientacaoObjectos.desafio5_25.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.desafio5_25.Main" />
+      <module name="AlgaworksCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.desafio5_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.desafio5_25.Main" />
         <item itemvalue="Application.MainPaciente" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TesteReferencias" />
         <item itemvalue="Application.TesteInicializacao" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729717362254</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="metodos e passagens por referencia">
+      <option name="closed" value="true" />
+      <created>1729809572794</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729809572794</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,6 +370,7 @@
     <MESSAGE value="starting_oop" />
     <MESSAGE value="instanciacao do metodo" />
     <MESSAGE value="instanciacao do metodo_update" />
-    <option name="LAST_COMMIT_MESSAGE" value="instanciacao do metodo_update" />
+    <MESSAGE value="metodos e passagens por referencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodos e passagens por referencia" />
   </component>
 </project>
