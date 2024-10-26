@@ -6,4 +6,7 @@ public class ContratoTrabalho {
     double valorHoraNormal;
     double valorHoraExtra;
 
+    boolean possuiAdicionalParaFilhos() {
+        return funcionario.possuiFilhos();
+    }
 }

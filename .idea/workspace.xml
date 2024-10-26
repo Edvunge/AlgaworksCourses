@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="metodos e passagens por referencia">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="error_code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/ContratoTrabalho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/ContratoTrabalho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/FolhaPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/FolhaPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/desafio5_25/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729809572794</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="error_code">
+      <option name="closed" value="true" />
+      <created>1729815192016</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729815192016</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,6 +383,7 @@
     <MESSAGE value="instanciacao do metodo" />
     <MESSAGE value="instanciacao do metodo_update" />
     <MESSAGE value="metodos e passagens por referencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodos e passagens por referencia" />
+    <MESSAGE value="error_code" />
+    <option name="LAST_COMMIT_MESSAGE" value="error_code" />
   </component>
 </project>
