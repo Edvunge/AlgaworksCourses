@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="fix_error_code">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="metodos_objetos_comoParametro">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/ServicoDePrecificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/ServicoDePrecificacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +100,7 @@
     "Application.PrimeiraClasse.executor": "Run",
     "Application.PrimeiroMetodo.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.Principal2.executor": "Run",
     "Application.PromocaoAritmetica1.executor": "Run",
     "Application.PromocaoAritmetica3.executor": "Run",
     "Application.RecebendoParametros.executor": "Run",
@@ -131,7 +132,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.especialistaJava.section05_orientacaoObjectos.precificacao.Principal">
+  <component name="RunManager" selected="Application.Principal2">
     <configuration name="MainPaciente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.MainPaciente" />
       <module name="AlgaworksCourses" />
@@ -145,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Principal" />
+    <configuration name="Principal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.precificacao.Principal2" />
       <module name="AlgaworksCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.*" />
+          <option name="PATTERN" value="especialistaJava.section05_orientacaoObjectos.precificacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal2" />
         <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.precificacao.Principal" />
         <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.companhia_aerea.Principal" />
         <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.desafio5_25.Main" />
         <item itemvalue="Application.MainPaciente" />
-        <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729981386192</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="metodos_objetos_comoParametro">
+      <option name="closed" value="true" />
+      <created>1730071304423</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730071304423</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,6 +402,7 @@
     <MESSAGE value="metodos e passagens por referencia" />
     <MESSAGE value="error_code" />
     <MESSAGE value="fix_error_code" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix_error_code" />
+    <MESSAGE value="metodos_objetos_comoParametro" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodos_objetos_comoParametro" />
   </component>
 </project>
