@@ -23,28 +23,5 @@ public class Principal {
         System.out.println(ipva);
 
         meuCarro.imprimirResumoDepreciacao();
-
-        /*
-        System.out.println("Meu Carro");
-        System.out.printf("Modelo: %s%n", meuCarro.modelo);
-        System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
-        System.out.printf("Cor: %s%n", meuCarro.cor);
-        System.out.printf("Fabricante: %s%n", meuCarro.fabricante);
-        System.out.printf("Nome do Proprietario: %s%n", meuCarro.proprietario.nome);
-        System.out.printf("CPF do Proprietario: %s%n", meuCarro.proprietario.cpf);
-        System.out.printf("AnoNascimento do Proprietario: %s%n", meuCarro.proprietario.anoNascimento);
-
-        System.out.println();
-
-        System.out.println("Seu Carro");
-        System.out.printf("Modelo: %s%n", seuCarro.modelo);
-        System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
-        System.out.printf("Cor: %s%n", seuCarro.cor);
-        System.out.printf("Fabricante: %s%n", seuCarro.fabricante);
-
-        System.out.println();
-        System.out.println("- Metodos - ");
-        meuCarro.calcularValorRevenda();
-        seuCarro.calcularValorRevenda();*/
     }
 }
