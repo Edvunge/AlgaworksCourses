@@ -9,8 +9,5 @@ public class Principal2 {
         produto1.alterarCustoEmbalagem(12);
         produto2.alterarCustoEmbalagem(20);
 
-
-        produto1.imprimirCustoEmbalagem();
-        produto2.imprimirCustoEmbalagem();
     }
 }
