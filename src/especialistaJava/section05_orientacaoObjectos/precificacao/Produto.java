@@ -3,8 +3,13 @@ package especialistaJava.section05_orientacaoObjectos.precificacao;
 public class Produto {
 
     static double custoEmbalagem;
+
     double precoCusto;
     double precoVenda;
+
+    double calcularCustosTotais() {
+        return this.precoCusto + Produto.custoEmbalagem;
+    }
 
     void alterarCustoEmbalagem(double custoEmbalagem) {
         Produto.custoEmbalagem = custoEmbalagem;
@@ -15,6 +20,6 @@ public class Produto {
     }
 
     void imprimirCustoEmbalagem() {
-        System.out.printf("Custo com embalagem: %.2f%n", custoEmbalagem);
+        System.out.printf("Custo com embalagem: %.2f%n", Produto.custoEmbalagem);
     }
 }

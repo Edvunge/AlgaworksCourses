@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="metodos_objetos_comoParametro">
+    <list default="true" id="b9723f3d-be1a-4fa9-b0da-90a87bfc2a66" name="Changes" comment="update_eraser">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Principal2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/ServicoDePrecificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/especialistaJava/section05_orientacaoObjectos/precificacao/ServicoDePrecificacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,7 @@
       <recent name="C:\Users\HP\Documents\edvaldo\AlgaworksCourses\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.especialistaJava.section05_orientacaoObjectos.precificacao.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="especialistaJava.section05_orientacaoObjectos.Principal" />
       <module name="AlgaworksCourses" />
@@ -200,9 +201,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.precificacao.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Principal2" />
-        <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.precificacao.Principal" />
         <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.companhia_aerea.Principal" />
         <item itemvalue="Application.especialistaJava.section05_orientacaoObjectos.desafio5_25.Main" />
       </list>
@@ -369,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730071304423</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update_eraser">
+      <option name="closed" value="true" />
+      <created>1730243137687</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730243137687</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,6 +412,7 @@
     <MESSAGE value="error_code" />
     <MESSAGE value="fix_error_code" />
     <MESSAGE value="metodos_objetos_comoParametro" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodos_objetos_comoParametro" />
+    <MESSAGE value="update_eraser" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_eraser" />
   </component>
 </project>
