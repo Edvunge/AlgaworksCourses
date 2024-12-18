@@ -2,7 +2,7 @@ package especialistaJava.section05_orientacaoObjectos.portaria;
 
 public class Visitante {
 
-    static final int IDADE_MINIMA_ACESSO_IRRESTRITO = 18;
+    static final int IDADE_MINIMA_ACESSO_IRRESTRITO = 16;
     String nome;
     int idade;
 
